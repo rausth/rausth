@@ -97,12 +97,15 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub followers](https://img.shields.io/github/followers/rausth?style=flat-square&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/rausth?style=flat-square&logo=github)
-![GitHub User's total repos](https://img.shields.io/badge/repositories-visit%20profile-blue?style=flat-square&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=rausth&style=flat-square)
+| Metric | Count |
+|--------|-------|
+| **Followers** | 26 |
+| **Following** | 22 |
+| **Public Repositories** | 3 |
+| **Member Since** | July 2013 |
+| **Primary Language** | Swift |
 
-**Explore**: [Full profile on GitHub](https://github.com/rausth)
+[View full profile](https://github.com/rausth)
 
 ---
 
