@@ -97,9 +97,10 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rausth&show_icons=true&theme=default)
+[![GitHub followers](https://img.shields.io/github/followers/rausth?style=social)](https://github.com/rausth?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/rausth?style=social)](https://github.com/rausth?tab=stars)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rausth&layout=compact&theme=default)
+**Recent work**: Check my repositories and contributions on [github.com/rausth](https://github.com/rausth)
 
 ---
 
