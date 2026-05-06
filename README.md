@@ -1,6 +1,6 @@
 # Hi, I'm rausth 👋
 
-**System Analyst and Researcher** | Passionate about solving complex problems and driving innovation
+**System Analyst and Researcher** | Solving complex problems and driving me crazy
 
 ---
 
