@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm rausth 👋
 
-<!--
-**rausth/rausth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**System Analyst and Researcher** | Passionate about solving complex problems and driving innovation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Analysis & Research**: Data analysis, system architecture, requirements engineering
+- **Programming**: Python, JavaScript, Go, Rust
+- **Tools & Platforms**: Git, Docker, Cloud technologies
+- **Methodologies**: System design, technical research, process optimization
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rausth&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rausth&layout=compact&theme=default)
+
+---
+
+## 🔄 Recent Activity
+
+Check out my repositories to see what I'm working on recently. Feel free to explore, contribute, or reach out!
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub**: [@rausth](https://github.com/rausth)
+- Open to collaborations and interesting discussions
+
+---
+
+*Last updated: May 2026*
