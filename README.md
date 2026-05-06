@@ -1,6 +1,6 @@
 # Hi, I'm rausth 👋
 
-**Systems-Oriented Software Engineering Researcher** | Ontology Engineering | Conceptual Modeling | Developer Infrastructure
+**Systems Analyst** | Ontology Engineering | Conceptual Modeling | Developer Infrastructure
 
 > I believe complex systems should be made explicit, structured, and interoperable. My work sits at the intersection of formal knowledge representation, software engineering theory, and practical developer tooling.
 
