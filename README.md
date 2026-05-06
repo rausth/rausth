@@ -7,8 +7,8 @@
 ## 🛠️ Skills
 
 - **Analysis & Research**: Data analysis, system architecture, requirements engineering
-- **Programming**: Python, JavaScript, Go, Rust
-- **Tools & Platforms**: Git, Docker, Cloud technologies
+- **Programming**: Python, JavaScript, Swift, Java
+- **Tools & Platforms**: Git, Cloud technologies
 - **Methodologies**: System design, technical research, process optimization
 
 ---
