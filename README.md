@@ -97,10 +97,12 @@
 
 ## 📊 GitHub Statistics
 
-[![GitHub followers](https://img.shields.io/github/followers/rausth?style=social)](https://github.com/rausth?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/rausth?style=social)](https://github.com/rausth?tab=stars)
+![GitHub followers](https://img.shields.io/github/followers/rausth?style=flat-square&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/rausth?style=flat-square&logo=github)
+![GitHub User's total repos](https://img.shields.io/badge/repositories-visit%20profile-blue?style=flat-square&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=rausth&style=flat-square)
 
-**Recent work**: Check my repositories and contributions on [github.com/rausth](https://github.com/rausth)
+**Explore**: [Full profile on GitHub](https://github.com/rausth)
 
 ---
 
