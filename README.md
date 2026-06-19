@@ -4,23 +4,6 @@
 
 > I believe complex systems should be made explicit, structured, and interoperable. My work sits at the intersection of formal knowledge representation, software engineering theory, and practical developer tooling.
 
----
-
-## 🎯 Core Focus Areas
-
-### Academic Interests
-- **Ontology Engineering**: OntoUML, UFO/gUFO, SABiO frameworks
-- **Conceptual Modeling**: Formal ontologies, domain-specific models, software engineering ontologies
-- **Software Engineering Research**: Front-end framework abstractions, systematic literature reviews, research methodology
-- **Research Rigor**: Methodological soundness, scientific validation, defensible formal models
-
-### Engineering Interests  
-- **Developer Infrastructure**: Shell customization, terminal AI integration, reproducible environments
-- **Tooling & Automation**: Package managers, build systems, configuration management, CI/CD optimization
-- **Systems Design**: Architecture coherence, component interoperability, long-term maintainability
-- **Cross-Domain Integration**: Bridging formal theory with practical implementation
-
----
 
 ## 💡 Core Values
 
@@ -31,25 +14,6 @@
 | **Control Over Tools** | Preference for transparent, configurable infrastructure over opaque defaults |
 | **Systemic Coherence** | Unified configurations across heterogeneous systems (macOS, shell behaviors, tool integrations) |
 | **Long-Term Maintainability** | Clean structures, reusable solutions, minimal duplication, clean separation of concerns |
-
----
-
-## 🛠️ Technical Skills
-
-**Languages**: Python, JavaScript/TypeScript, Go, Rust, Bash/Zsh
-
-**Research Tools**: Visual Paradigm, Protégé, TONTO, OntoUML, gUFO modeling
-
-**Developer Tools**:  
-- Shell: Zsh, Bash, Starship, iTerm2, Warp
-- Editors: Neovim, VSCode
-- Package Management: Homebrew, pyenv, pnpm
-- Infrastructure: Docker, Git, GitHub Actions
-- AI Integration: Codex, Gemini, Perplexity, Claude API
-
-**Platforms**: macOS (Intel/Apple Silicon), GitHub, cloud services
-
-**Methodologies**: System design, technical research, ontology-driven design, systematic literature reviews, iterative refinement
 
 ---
 
@@ -117,4 +81,4 @@
 
 ---
 
-*Last updated: May 2026*
+
